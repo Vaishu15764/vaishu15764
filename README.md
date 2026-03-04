@@ -40,13 +40,13 @@ Exploring the world of Data Analysis, Machine Learning, Generative AI, and RAG S
 - CNN
 - ANN
 
-### NLP & Generative AI
-- Text Preprocessing
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- Prompt Engineering
-- LangChain
-- LangGraph
+### NLP & Generative AI (Beginner / Exploring)
+- Text Preprocessing (Tokenization, Stopword Removal)
+- Basics of Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG) Concepts
+- Prompt Engineering (Basic)
+- LangChain (Beginner)
+- LangGraph (Learning)
 
 ### Application Development
 - FastAPI
@@ -134,13 +134,13 @@ Aggregate: 88.40%
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaishu15764&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaishu15764&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu15764&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu15764&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishu15764&theme=tokyonight" />
 </p>
-
 ---
 
 # 📫 Connect With Me
