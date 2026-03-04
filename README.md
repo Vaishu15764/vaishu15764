@@ -128,6 +128,7 @@ Aggregate: 88.40%
 
 - Full Stack Data Science and AI — NareshIT Hyderabad  
 - Machine Learning with Python — IBM (Coursera)
+- Introduction to Machine Learning - IIT kharagpur NPTEL
 
 ---
 
