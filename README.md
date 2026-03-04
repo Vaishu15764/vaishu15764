@@ -159,11 +159,8 @@ Aggregate: 88.40%
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaishu15764&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu15764&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaishu15764&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu15764&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
